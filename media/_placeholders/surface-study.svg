@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Abstract monochrome surface">
+  <rect width="1600" height="1000" fill="#101010"/>
+  <rect x="128" y="96" width="1344" height="808" fill="#f6f1e7" opacity=".06"/>
+  <path d="M214 790 C410 636 558 562 794 600 C1034 639 1139 496 1400 238" fill="none" stroke="#f6f1e7" stroke-width="64" opacity=".075"/>
+  <path d="M206 248 L1395 248 M206 500 L1395 500 M206 752 L1395 752" stroke="#f6f1e7" stroke-width="2" opacity=".18"/>
+  <path d="M402 96 L402 904 M792 96 L792 904 M1188 96 L1188 904" stroke="#f6f1e7" stroke-width="2" opacity=".11"/>
+  <circle cx="794" cy="501" r="256" fill="none" stroke="#f6f1e7" stroke-width="2" opacity=".34"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Abstract monochrome film still">
+  <rect width="1600" height="1000" fill="#090909"/>
+  <path d="M0 682 C330 596 464 736 801 584 C1068 464 1247 460 1600 326 L1600 1000 L0 1000 Z" fill="#d8d4cc" opacity=".12"/>
+  <path d="M0 548 C260 480 445 516 690 416 C1003 290 1186 274 1600 130" fill="none" stroke="#f4f0e8" stroke-width="3" opacity=".32"/>
+  <rect x="115" y="126" width="498" height="748" fill="#f4f0e8" opacity=".055"/>
+  <rect x="688" y="214" width="782" height="438" fill="#f4f0e8" opacity=".09"/>
+  <circle cx="1168" cy="436" r="198" fill="#f4f0e8" opacity=".11"/>
+  <g opacity=".12">
+    <rect x="0" y="120" width="1600" height="1" fill="#fff"/>
+    <rect x="0" y="322" width="1600" height="1" fill="#fff"/>
+    <rect x="0" y="734" width="1600" height="1" fill="#fff"/>
+  </g>
+</svg>
